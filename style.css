@@ -93,7 +93,7 @@ body {
 header {
   position:fixed;
   width: 100%;
-  background: #e3e6f3;;
+  background: #e3e6f3;
   top: 0;
   left:0;
   z-index: 999; 
